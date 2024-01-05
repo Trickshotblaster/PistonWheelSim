@@ -18,7 +18,7 @@ bg_color = (50, 50, 50)
 
 screen = pygame.display.set_mode((600, 600))
 
-pygame.display.set_caption('Piston and whel')
+pygame.display.set_caption('Piston and wheel')
 
 screen.fill(bg_color)
 
